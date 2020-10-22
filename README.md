@@ -4,5 +4,5 @@ This code is written in Matlab and takes a desired gear ratio, material properti
 
 Below is an image of the basic gear design.
   
-  ![BasicGear](C:\Users\chris\Pictures\BasicGear.png)
+  ![BasicGear](https://github.com/merrikin/gear_system_optimization/blob/main/BasicGear.png?raw=true)
 
